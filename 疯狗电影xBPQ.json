@@ -1,11 +1,12 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "疯狗电影",
-  "主页url": "https://m.fenggoudy3.com",
+  "主页url": "https://www.fenggoudy3.com",
   
-  "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+  "分类": "电影&电视剧&动漫&综艺",
+  "分类值": "1&2&3&4",
   
-  "分类url": "https://m.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html",
+  "分类url": "https://www.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html",
   
   "数组": "<div class=\"v_pic\">&&</li>",
   "图片": "data-src=\"&&\"",
@@ -18,9 +19,11 @@
   "搜索数组":"<p class=\"image\">&&</p>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "alt=\"&&\"",
+  "搜索副标题": "continu\">&&</span>",
   "搜索链接": "href=\"&&\"",
   
-  "状态": "0",
+  "影片年代": "年代：</em>&&</em>",
+  "影片类型": "类型：&&</li>",
   "导演": "导演：</em><em>&&</em>",
   "主演": "主演：&&</li>",
   "简介": "简介：&&</span>",
