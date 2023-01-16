@@ -1,11 +1,11 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "莫扎兔",
-  "主页url": "https://www.mozhatu.com",
+  "主页url": "https://tv1920.com",
   
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4#记录$5",
   
-  "分类url": "https://www.mozhatu.com/index.php/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}.html",
+  "分类url": "https://tv1920.com/index.php/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
