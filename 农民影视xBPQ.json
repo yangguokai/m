@@ -1,13 +1,13 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "农民影视",
-  "主页url": "https://v.xiangdao.me",
+  "主页url": "https://www.nmddd.com",
   "请求头": "手机",
   "倒序播放": "1",
   
   "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
   
-  "分类url": "https://v.xiangdao.me/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html",
+  "分类url": "https://www.nmddd.com/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html",
   
   "二次截取": "resize_list\">&&</ul>",
   "数组": "<li>&&</li>",
@@ -17,7 +17,7 @@
   "副标题": "<span>&&<em>",
   
   "搜索模式": "1",
-  "搜索url": "https://v.xiangdao.me/index.php?m=vod-search;post;wd={wd}",
+  "搜索url": "https://www.nmddd.com/index.php?m=vod-search;post;wd={wd}",
   "搜索二次截取": "data_list\">&&</ul>",
   "搜索数组": "<li>&&</li>",
   "搜索图片": "data-src=\"&&\"",
